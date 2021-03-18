@@ -1,9 +1,0 @@
-{"container":"placement_02fe10ef-9"}
-{"container":"lowercaseservice-proxy_e2f6bad1-1"}
-{"container":"titlecaseservice-proxy_a95e588c-0"}
-{"container":"sentenceapp-proxy_90dfc6b5-b"}
-{"container":"uppercaseservice-dapr-proxy_e35487e6-c"}
-{"container":"lowercaseservice-dapr-proxy_7b2e07a9-1"}
-{"container":"titlecaseservice-dapr-proxy_3c0ddcbd-1"}
-{"container":"sentenceapp-dapr-proxy_81a4dea2-c"}
-{"container":"uppercaseservice_ff2f8d11-2"}
