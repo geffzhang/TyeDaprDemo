@@ -22,7 +22,7 @@ extensions:
   # config: myconfig
 
   # components-path configures the components path of the dapr sidecard
-  # components-path: "./components/"
+  components-path: "./components/"
 
   # You can instruct Tye to not create the Dapr placement container on your behalf. This is required if you have Dapr running and want to use that container.
   # Doing a `docker ps` can show if its already running. If it's running then you can set 'exclude-placement-container: true' with `placement-port: xxxx` set to the host port of that container.
